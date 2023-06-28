@@ -1,0 +1,12 @@
+html {
+    font-size: 30px;
+    /* px 表示“像素（pixel）”: 基础字号为 30 像素 */
+    font-family: 'Kirang Haerang', cursive;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+}
